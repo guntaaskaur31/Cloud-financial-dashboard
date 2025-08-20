@@ -1,3 +1,10 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange)
+![AWS S3](https://img.shields.io/badge/AWS-S3-yellowgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+🔗 **Live Demo:** [http://13.61.186.142:8501](http://13.61.186.142:8501)
 # Cloud-Based Financial Analytics Dashboard
 
 An interactive Streamlit dashboard hosted on AWS EC2 with secure file storage on AWS S3.
